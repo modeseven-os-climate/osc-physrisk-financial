@@ -11,6 +11,7 @@ version_scheme = "no-guess-dev"
 package-dir = "src"
 
 [project]
+dynamic = ["version"]
 name = "osc-physrisk-financial"
 description = "OS-Climate Python Project"
 readme = "README.rst"
